@@ -1,2 +1,44 @@
 # AI-styled-Devanagari-words
 AI styled Devanagari words
+
+Day 1
+सेव -
+Transform the uploaded PNG typography into ultra-clean, premium 3D typography encased in translucent ice, as if time itself has frozen at the perfect moment.
+
+The typography should appear suspended inside clear, crystalline ice, with realistic ice refraction, soft internal cracks, frozen air bubbles, and subtle frost on the outer edges.
+
+Surround the typography with multiple green apples, arranged in a minimal, intentional composition. Some apples should be fully frozen inside ice, others partially exposed, revealing fresh, vibrant green interiors beneath cracked frost—symbolizing quality preserved through time.
+
+Use a deep, minimal green backdrop inspired by Apple-style luxury advertising, with a smooth gradient and large negative space to keep the typography as the hero.
+
+Lighting should be cool, cinematic, and precise: soft diffused key light, gentle rim light outlining the ice, and subtle reflections similar to Apple product launch visuals.
+
+The winter environment should feel silent and controlled, not chaotic—floating ice particles, faint mist, no heavy snowfall.
+
+Color palette: glacier whites, ice blues, muted silver highlights, rich apple green accents.
+
+Style: hyper-realistic 3D render, luxury advertising aesthetic, minimal composition, metaphor-driven storytelling, Apple-level visual restraint, premium poster quality.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+आमलकी -
+Transform the uploaded PNG typography into soft, cloud-like, puffy inflated 3D typography, inspired by natural sky clouds—rounded, airy, volumetric, and weightless, with no sharp edges or hard surfaces.
+
+The typography should look as if it is formed entirely from clouds, gently sculpted by air, evoking breath, calm, and emotional lightness.
+
+Place the typography in an open sky environment, with a clean, soft atmosphere and diffused daylight, creating a sense of freedom and inner peace.
+
+Surround the typography with floating Amalaki fruits and delicate Amalaki leaves, drifting effortlessly through the air, as if carried by a slow, warm breeze.
+
+Introduce additional soft clouds around and through the typography—some partially wrapping the letters, others floating freely—enhancing the feeling of comfort, nourishment, and gentle wellness.
+
+The Amalaki fruits should appear fresh, vibrant, and alive, subtly contrasting with the soft white clouds, symbolizing natural vitality within lightness.
+
+Lighting should be natural, diffused, and emotional, like morning sky light—no harsh shadows, only soft highlights and smooth gradients.
+
+Color palette: soft cloud whites, sky blues, fresh Amalaki greens, gentle warm light tones.
+
+Mood: relief, calm, purity, emotional warmth, breath-like softness.
+
+Style: hyper-realistic cloud simulation, metaphor-driven wellness advertising, minimal surrealism, premium global brand aesthetic, cinematic yet gentle, poster-quality composition.
+
