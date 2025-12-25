@@ -3,6 +3,8 @@ AI styled Devanagari words
 
 Day 1
 सेव -
+![freepik__transform-the-img1-uploaded-png-typography-into-ul__91959](https://github.com/user-attachments/assets/9a18b56d-780d-4723-851d-d561c6d74a19)
+
 Transform the uploaded PNG typography into ultra-clean, premium 3D typography encased in translucent ice, as if time itself has frozen at the perfect moment.
 
 The typography should appear suspended inside clear, crystalline ice, with realistic ice refraction, soft internal cracks, frozen air bubbles, and subtle frost on the outer edges.
@@ -22,6 +24,8 @@ Style: hyper-realistic 3D render, luxury advertising aesthetic, minimal composit
 --------------------------------------------------------------------------------------------------------------------------------------
 
 आमलकी -
+![freepik__transform-the-img1-uploaded-png-typography-into-so__53051](https://github.com/user-attachments/assets/d215b554-10ad-4dbe-b882-f268c8e5d7b4)
+
 Transform the uploaded PNG typography into soft, cloud-like, puffy inflated 3D typography, inspired by natural sky clouds—rounded, airy, volumetric, and weightless, with no sharp edges or hard surfaces.
 
 The typography should look as if it is formed entirely from clouds, gently sculpted by air, evoking breath, calm, and emotional lightness.
