@@ -2,6 +2,7 @@
 AI styled Devanagari words
 
 Day 1
+
 सेव -
 ![freepik__transform-the-img1-uploaded-png-typography-into-ul__91959](https://github.com/user-attachments/assets/9a18b56d-780d-4723-851d-d561c6d74a19)
 
@@ -45,4 +46,18 @@ Color palette: soft cloud whites, sky blues, fresh Amalaki greens, gentle warm l
 Mood: relief, calm, purity, emotional warmth, breath-like softness.
 
 Style: hyper-realistic cloud simulation, metaphor-driven wellness advertising, minimal surrealism, premium global brand aesthetic, cinematic yet gentle, poster-quality composition.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Day 2
+
+मधुर — Sweet
+
+![freepik__transform-the-uploaded-img1-png-typography-into-so__60085](https://github.com/user-attachments/assets/25e73409-f671-455d-b6e4-8bbf29a4ee6f)
+
+
+Transform the uploaded PNG typography into soft, inflated, transparent balloon-like 3D letters, made of clear glossy material that feels light, airy, and joyful. Inside each letter, Indian flowers bloom naturally from within—lotus, marigold, hibiscus, jasmine, gulmohar, and cosmos—appearing alive and rooted inside the typography, as if happiness itself is growing from the core of the word. Surround the typography with floating Indian flower petals and gentle pollen particles, drifting in warm air. Place the scene in a vast Indian meadow filled with wildflowers, under a bright blue sky with soft white clouds. Use warm sunlight with subtle sun flares passing through the transparent letters, creating glowing highlights and emotional softness. Mood: inner joy, emotional bloom, optimism, celebration of life. Hyper-emotion advertising, metaphorical storytelling, ultra-realistic, cinematic depth of field, premium brand aesthetic.
+
+
+
 
