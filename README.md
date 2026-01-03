@@ -58,6 +58,31 @@ Day 2
 
 Transform the uploaded PNG typography into soft, inflated, transparent balloon-like 3D letters, made of clear glossy material that feels light, airy, and joyful. Inside each letter, Indian flowers bloom naturally from within—lotus, marigold, hibiscus, jasmine, gulmohar, and cosmos—appearing alive and rooted inside the typography, as if happiness itself is growing from the core of the word. Surround the typography with floating Indian flower petals and gentle pollen particles, drifting in warm air. Place the scene in a vast Indian meadow filled with wildflowers, under a bright blue sky with soft white clouds. Use warm sunlight with subtle sun flares passing through the transparent letters, creating glowing highlights and emotional softness. Mood: inner joy, emotional bloom, optimism, celebration of life. Hyper-emotion advertising, metaphorical storytelling, ultra-realistic, cinematic depth of field, premium brand aesthetic.
 
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Day 3
+
+सोपे — easy ( easy and not involved or complicated ) ( Marathi )
+
+![freepik__transform-the-uploaded-img1-png-typography-into-cr__33132](https://github.com/user-attachments/assets/1656984d-b4c2-433b-bff2-61b6dbd3c5cf)
+
+
+Transform the uploaded PNG typography into crochet knitted 3D typography, made entirely from soft wool yarn with visible hand-stitched loops, uneven threads, and tactile texture.
+Place the typography inside a Himalayan mountain valley diorama, entirely crafted in a crochet / knitted style, resembling a handcrafted miniature world.
+Surround the typography with knitted pine trees, sloping mountains, stitched rocks, and yarn-woven grass, all delicately arranged as if hand-assembled.
+The valley should feel slow, calm, and timeless — like something patiently woven over generations.
+Lighting should be soft morning light, warm and emotional, casting gentle shadows that enhance yarn texture.
+Color palette: natural wool whites, forest greens, earthy browns, muted sky blues.
+Mood: heritage, patience, authenticity, emotional warmth.
+Style: handcrafted diorama, hyper-real textile detail, premium advertising visual.
+
+
+
+
+
+
+
+
 
 
 
